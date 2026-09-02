@@ -1,6 +1,4 @@
 const Joi = require("joi");
-const { sign } = require("jsonwebtoken");
-const { signup } = require("../controllers/auth");
 
 
 
